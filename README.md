@@ -18,3 +18,8 @@ To run this solution:
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/leetcode-solutions.git
+2. Run the Python file:
+   ```bash
+   python circular_sentence_solution.py
+Contributing
+Feel free to fork this repository and submit pull requests if you have improvements or alternative solutions.
