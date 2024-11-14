@@ -5,7 +5,12 @@ This repository contains my solution to the **Circular Sentence** problem from L
 ## Problem Description
 The **Circular Sentence** problem asks us to determine if a given sentence is circular. In other words, we need to check if the last character of each word matches the first character of the next word, and if the sentence wraps around back to the beginning.
 
-- **Link to Problem**: [LeetCode Circular Sentence](https://leetcode.com/problems/circular-sentence/?source=submission-ac)
+- **Link to Problem**:
+- [LeetCode Circular Sentence](https://leetcode.com/problems/circular-sentence/?source=submission-ac)
+- [LeetCode Power Of Two](https://leetcode.com/problems/power-of-two/)
+
+You can also watch the solution videos at the link below.
+-[hython](https://www.youtube.com/@Hython.)
 
 ## Solution Approach
 In this solution, I:
@@ -21,5 +26,6 @@ To run this solution:
 2. Run the Python file:
    ```bash
    python circular_sentence_solution.py
+   python .py
 Contributing
 Feel free to fork this repository and submit pull requests if you have improvements or alternative solutions.
