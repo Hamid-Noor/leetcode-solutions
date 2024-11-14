@@ -9,8 +9,8 @@ The **Circular Sentence** problem asks us to determine if a given sentence is ci
 - [LeetCode Circular Sentence](https://leetcode.com/problems/circular-sentence/?source=submission-ac)
 - [LeetCode Power Of Two](https://leetcode.com/problems/power-of-two/)
 
-You can also watch the solution videos at the link below.
--[hython](https://www.youtube.com/@Hython.)
+#You can also watch the solution videos at the link below.
+- [hython](https://www.youtube.com/@Hython.)
 
 ## Solution Approach
 In this solution, I:
@@ -26,6 +26,7 @@ To run this solution:
 2. Run the Python file:
    ```bash
    python circular_sentence_solution.py
-   python .py
+   python power_of_two_ver1.py
+   python power_of_two_ver2.py
 Contributing
 Feel free to fork this repository and submit pull requests if you have improvements or alternative solutions.
